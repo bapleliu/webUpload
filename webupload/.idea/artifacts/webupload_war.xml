@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webupload:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="webUpdate-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webupload:war exploded" />
+    </root>
+  </artifact>
+</component>
